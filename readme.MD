@@ -1,7 +1,8 @@
 # Usage
-Just run the script using Python3 and it will print all available job listings.
+(Requires Python 3)
+Just run the script and it will print available job listings.
 ## Setup
-It is possible to change the area and teaching position of the jobs by changing the teaching and region ID. The following are a list of different codes that can be used:
+It is possible to change the area and teaching position of the jobs by changing the position/region ID. The following are a list of different IDs that can be used:
 ### Position
 * 22048 - Primary Teacher
 * 22047 - Secondary Teacher
